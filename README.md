@@ -6,4 +6,4 @@ Day 1:
 
 Day 2:
 1. Rotate Array (LeetCode 189): https://leetcode.com/problems/rotate-array/submissions/2128727134
-2. Remove Duplicates from Sorted Array (LeetCode 26): https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/
+2. Remove Duplicates from Sorted Array (LeetCode 26): https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/2128711277
