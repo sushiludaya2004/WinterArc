@@ -11,3 +11,7 @@ Day 2:
 Day 3:
 1. Move Zeroes (LeetCode 283): https://leetcode.com/problems/move-zeroes/submissions/2129734185
 2. Single Element in a Sorted Array (LeetCode 540): https://leetcode.com/problems/single-element-in-a-sorted-array/submissions/2129746439
+
+Day 4:
+1. Max Consecutive Ones : https://leetcode.com/problems/max-consecutive-ones/submissions/2130812121
+2. Single Number : https://leetcode.com/problems/single-number/submissions/2130806173
