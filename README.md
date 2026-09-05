@@ -15,3 +15,7 @@ Day 3:
 Day 4:
 1. Max Consecutive Ones : https://leetcode.com/problems/max-consecutive-ones/submissions/2130812121
 2. Single Number : https://leetcode.com/problems/single-number/submissions/2130806173
+
+Day 5:
+1. Subarray Sum Equals K : https://leetcode.com/problems/subarray-sum-equals-k/submissions/2131993979
+2. Two Sum : https://leetcode.com/problems/two-sum/submissions/2131966184
