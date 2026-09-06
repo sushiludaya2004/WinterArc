@@ -19,3 +19,7 @@ Day 4:
 Day 5:
 1. Subarray Sum Equals K : https://leetcode.com/problems/subarray-sum-equals-k/submissions/2131993979
 2. Two Sum : https://leetcode.com/problems/two-sum/submissions/2131966184
+
+Day 6:
+Sort Colors : https://leetcode.com/problems/sort-colors/submissions/2132945314
+Majority Element : https://leetcode.com/problems/majority-element/submissions/2132996155
