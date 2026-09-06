@@ -21,5 +21,5 @@ Day 5:
 2. Two Sum : https://leetcode.com/problems/two-sum/submissions/2131966184
 
 Day 6:
-Sort Colors : https://leetcode.com/problems/sort-colors/submissions/2132945314
-Majority Element : https://leetcode.com/problems/majority-element/submissions/2132996155
+1. Sort Colors : https://leetcode.com/problems/sort-colors/submissions/2132945314
+2. Majority Element : https://leetcode.com/problems/majority-element/submissions/2132996155
