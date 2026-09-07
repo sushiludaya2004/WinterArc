@@ -23,3 +23,7 @@ Day 5:
 Day 6:
 1. Sort Colors : https://leetcode.com/problems/sort-colors/submissions/2132945314
 2. Majority Element : https://leetcode.com/problems/majority-element/submissions/2132996155
+
+Day 7:
+1. Best Time to Buy and Sell Stock : https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/2134212993
+2. Maximum Subarray : https://leetcode.com/problems/maximum-subarray/submissions/2134227768
