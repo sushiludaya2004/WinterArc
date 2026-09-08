@@ -27,3 +27,7 @@ Day 6:
 Day 7:
 1. Best Time to Buy and Sell Stock : https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/2134212993
 2. Maximum Subarray : https://leetcode.com/problems/maximum-subarray/submissions/2134227768
+
+Day 8:
+1. Next Permutation : https://leetcode.com/problems/next-permutation/submissions/2135494210
+2. Longest Consecutive Sequence : https://leetcode.com/problems/longest-consecutive-sequence/submissions/2135462955
