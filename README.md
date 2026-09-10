@@ -1,5 +1,10 @@
 # WinterArc Challenge 2026
 
+Day 10:
+1. Count Nodes Equal to Average of Subtree : https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/description/
+2. Subarray Sum Equals K : https://leetcode.com/submissions/detail/2137742827/
+3. Spiral Matrix : https://leetcode.com/submissions/detail/2137741771/
+
 Day 9:
 1. Rotate Image : https://leetcode.com/problems/rotate-image/submissions/2136552723
 2. Set Matrix Zeroes : https://leetcode.com/problems/set-matrix-zeroes/submissions/2136542133
